@@ -1,27 +1,52 @@
-# 💰 Expense Tracker
+\# 💰 Expense Tracker
+
+
 
 A simple Python-based Expense Tracker that helps users manage their daily expenses.
 
-## ✨ Features
 
-- ➕ Add expenses
-- 📋 View all expenses
-- 🗑️ Delete expenses
-- 💰 Calculate total expenses
-- 🏷️ Categorize expenses
-- 🚪 Exit the application
 
-## 🛠️ Technologies Used
+\## ✨ Features
 
-- Python
-- Git
-- GitHub
 
-## ▶️ How to Run
 
-1. Download or clone this repository.
-2. Open the project folder in Command Prompt.
-3. Run:
+\- ➕ Add expenses
+
+\- 📋 View all expenses
+
+\- 💰 Calculate total spending
+
+\- 📊 View spending by category
+
+\- 🗑️ Delete expenses
+
+\- 💾 Save expenses automatically using JSON
+
+
+
+\## 🛠️ Technologies Used
+
+
+
+\- Python
+
+\- JSON
+
+
+
+\## ▶️ How to Run
+
+
+
+1\. Make sure Python is installed.
+
+2\. Open the project folder.
+
+3\. Run:
+
+
 
 ```bash
-python expense_tracker.py
+
+python expense\_tracker.py
+
